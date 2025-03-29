@@ -49,7 +49,7 @@ cd frappe
 ```
 Di sinilah basis instalasi framework Frappe.
 
-Sebenarnya ada script python bernama ~easy-install.py~, namun pada host dengan arsitektur ARM mungkin akan gagal. Jadi kita tidak menggunakannya, karena sebenarnya ada cara yang lebih praktis.
+Sebenarnya ada script python bernama ```easy-install.py```, namun pada host dengan arsitektur ARM mungkin akan gagal. Jadi kita tidak menggunakannya, karena sebenarnya ada cara yang lebih praktis.
 
 ## Custom pwd.yml
 
