@@ -66,16 +66,22 @@ Kustomisasi ini diperlukan supaya kita bisa mengakses folder sites & database ma
 Edit file ```pwd.yml``` dan temukan bagian ```volumes```. Berikut adalah bagian tersebut orisinalnya:
 
 ```
+...
+
 volumes:
   db-data:
   redis-queue-data:
   sites:
   logs:
+
+...
 ```
 
 Kita ubah menjadi:
 
 ```
+...
+
 volumes:
   db-data:
     driver: local
@@ -91,6 +97,8 @@ volumes:
       type: none
       device: ./_sites
   logs:
+
+...
 ```
 
 Sebelum menjalankan docker-compose, kita perlu membuat folder ```_db_data``` dan ```_sites```. Berikut perintahnya:
