@@ -145,5 +145,7 @@ Nanti akan ada prompt untuk membuat user & password baru.
 # Xenara Cafe and Coworking Space
 
 Vlog ini disponsori oleh Xenara Cafe and Coworking Space.
+
 Alamat:
-  Ruko Citra Grand, Blok London C-08, Semarang, Jawa Tengah, Indonesia
+
+Ruko Citra Grand, Blok London C-08, Semarang, Jawa Tengah, Indonesia
