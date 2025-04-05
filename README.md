@@ -1,5 +1,7 @@
 # Vlog Sat-set Install Framework Frappe dengan Docker
 
+[![DevOps Komodo](https://img.youtube.com/vi/kdjChBZIMyQ/0.jpg)](https://www.youtube.com/watch?v=kdjChBZIMyQ)
+
 Dokumen ini digunakan sebagai pendukung video yang diterbitkan di channel Orang_IT. 
 
 Dokumen ini menjelaskan cara install framework frappe dengan docker. Framework Frappe bisa diinstall langsung di Host tanpa memerlukan Docker. Tapi bahasan tersebut di luar cakupan dokumen ini.
